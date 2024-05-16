@@ -24,3 +24,9 @@ Type 'localhost:8000' into your browser's searchbar.
 @hiimgabe   
 @damachad   
 @tbezerrasoares   
+
+## Demo
+
+![image](https://github.com/damachad/vicaima_hackathon/assets/128734978/e565a494-8da0-4ffd-895f-4b64156a3812)   
+
+![image](https://github.com/damachad/vicaima_hackathon/assets/128734978/5064028d-38cc-4d6b-8186-c04a32a5a218)
